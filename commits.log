@@ -1,0 +1,98 @@
+commit dec37c6fd209dcfd91d42b99875a013d3e8a8e54
+Author: SantiaGonzalez <s.gonzalez35@uniandes.edu.co>
+Date:   Mon Jan 9 03:21:07 2023 -0500
+
+    Trying git diff
+
+commit 9d7275c1ab797646e4bc6735049f2e12b1e31d2f
+Author: SantiaGonzalez <s.gonzalez35@uniandes.edu.co>
+Date:   Mon Jan 9 02:09:20 2023 -0500
+
+    Year stations and start dates
+
+commit e84255fb9923e7728167ebb182c8781823e5153a
+Merge: 9037a25 3779a0c
+Author: SantiaGonzalez <s.gonzalez35@uniandes.edu.co>
+Date:   Mon Jan 9 02:01:31 2023 -0500
+
+    Solving conflict on year stations and start dates
+
+commit 9037a25aca8d844bee3c407ef8e533204153f606
+Author: SantiaGonzalez <s.gonzalez35@uniandes.edu.co>
+Date:   Mon Jan 9 01:52:48 2023 -0500
+
+    Adding stations of year with start date
+
+commit 3779a0c97efb8bd29cd88fd502497dfdd7f67297
+Author: SantiaGonzalez <s.gonzalez35@uniandes.edu.co>
+Date:   Mon Jan 9 01:52:48 2023 -0500
+
+    Adding stations of the year
+
+commit 840840f637c21579a5d2bc8948d28c6cd64a0b2f
+Merge: 4d3ba63 a16d314
+Author: SantiaGonzalez <s.gonzalez35@uniandes.edu.co>
+Date:   Mon Jan 9 01:47:23 2023 -0500
+
+    Solving merge conflicts maing-html
+
+commit a16d31416cda91428368d64a472173e12830b35d
+Author: SantiaGonzalez <s.gonzalez35@uniandes.edu.co>
+Date:   Mon Jan 9 01:44:05 2023 -0500
+
+    Add index.js to index.html
+
+commit 4d3ba633b6cd410e85c48703767780f229c8d031
+Author: SantiaGonzalez <s.gonzalez35@uniandes.edu.co>
+Date:   Mon Jan 9 01:41:55 2023 -0500
+
+    Add style.css to index.html
+
+commit 1e080b45e8d9274c2c11c056263470e50e90735b
+Merge: 9212a04 1b1c563
+Author: SantiaGonzalez <s.gonzalez35@uniandes.edu.co>
+Date:   Mon Jan 9 01:35:53 2023 -0500
+
+    Merge branch 'js'
+
+commit 1b1c5636244e3a8091ca7e32df67edc53e7251f3
+Author: SantiaGonzalez <s.gonzalez35@uniandes.edu.co>
+Date:   Mon Jan 9 01:00:23 2023 -0500
+
+    Create the js
+
+commit 9212a048bb728844eebf4140c1245bcb57419bed
+Author: SantiaGonzalez <s.gonzalez35@uniandes.edu.co>
+Date:   Mon Jan 9 00:58:58 2023 -0500
+
+    Create the css
+
+commit 0b6c51a0d02b0eedde155956c283de979a04f1af
+Author: SantiaGonzalez <s.gonzalez35@uniandes.edu.co>
+Date:   Mon Jan 9 00:57:25 2023 -0500
+
+    Create the html
+
+commit 05714067a6a814799cf9fee49e7ca8d5442d5bc4
+Author: SantiGonzalezz <98572117+SantiGonzalezz@users.noreply.github.com>
+Date:   Fri Jan 6 02:54:53 2023 -0500
+
+    Create license.txt
+
+commit c1b595f471c5b259195e71211720c12f1f8105c0
+Author: SantiaGonzalez <s.gonzalez35@uniandes.edu.co>
+Date:   Fri Jan 6 02:50:36 2023 -0500
+
+    Add content to README and Delete Test File
+
+commit 1c522ae8220f8bea194f244ecd56b72403c5a1bc
+Author: SantiaGonzalez <s.gonzalez35@uniandes.edu.co>
+Date:   Fri Jan 6 02:41:50 2023 -0500
+
+    Adding intial content to README
+
+commit 07f45c1b131cdec6beb2ed7aa1418f2a5c50aa51
+Author: SantiaGonzalez <s.gonzalez35@uniandes.edu.co>
+Date:   Fri Jan 6 02:39:09 2023 -0500
+
+    First commit
